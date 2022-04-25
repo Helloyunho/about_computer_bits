@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+		<string>Chapter2.playgroundchapter</string>
+		<string>Chapter3.playgroundchapter</string>
+		<string>Chapter4.playgroundchapter</string>
+		<string>Chapter5.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>xyz.helloyunho.About-computer-bits</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios14.7</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>ImageReference</key>
+	<string>Thumbnail.png</string>
+	<key>Name</key>
+	<string>About computer bits</string>
+	<key>SupportsDarkMode</key>
+	<true/>
+	<key>SwiftVersion</key>
+	<string>5.5</string>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array>
+		<string>BitsAPI</string>
+	</array>
+	<key>UserModuleMode</key>
+	<string>Disabled</string>
+	<key>Version</key>
+	<string>7.0</string>
+</dict>
+</plist>
